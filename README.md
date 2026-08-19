@@ -1,98 +1,71 @@
-# cut grass for brainroots v2026 - Game Script Utility 2026
+# 🏆 brainroots-cut-grass-v2026-hub - Automate Grass Harvesting in Brainroots v2026
 
-> An HTML-focused browser script tailored for Brainroots v2026, delivering target lock capabilities alongside automated grass harvesting tools.
+[![Download Now](https://img.shields.io/badge/Download-Latest_Release-2ea44f?style=for-the-badge)](https://github.com/Antinomian-theorem163/brainroots-cut-grass-v2026-hub)
 
-[![Game Script](https://img.shields.io/badge/Type-Game%20Script-green?style=flat-square)](https://github.com)
-[![Platform](https://img.shields.io/badge/Platform-HTML-blue?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/millersven99/brainroots-cut-grass-v2026-hub?style=flat-square)](https://github.com/millersven99/brainroots-cut-grass-v2026-hub)
+## 🚀 Getting Started
 
----
+**brainroots-cut-grass-v2026-hub** is a free browser script utility designed to make your Brainroots v2026 experience easier. This tool adds target lock functionality and automated grass harvesting, helping you gather resources while you focus on other activities.
 
-<p align="center">
-  <a href="https://millersven99.github.io/brainroots-cut-grass-v2026-hub/">
-    <img src="https://img.shields.io/badge/Download-cut%20grass%20for%20brainroots%20Script-brightgreen?style=for-the-badge" alt="Download cut grass for brainroots Script">
-  </a>
-</p>
+### 📋 What You Need
+- A Windows computer (Windows 7, 8, 10, or 11)
+- An internet connection
+- Brainroots v2026 running in your browser (Chrome, Firefox, or Edge)
 
-> **[Direct Download - cut grass for brainroots](https://millersven99.github.io/brainroots-cut-grass-v2026-hub/)**
+## ⬇️ Download & Install
 
----
+Visit this link to download the application: [https://github.com/Antinomian-theorem163/brainroots-cut-grass-v2026-hub](https://github.com/Antinomian-theorem163/brainroots-cut-grass-v2026-hub)
 
-[Download Latest Build](https://millersven99.github.io/brainroots-cut-grass-v2026-hub/)
+On the GitHub page, click the green "Code" button and select "Download ZIP". Then extract the ZIP folder to a location you'll remember, like your Desktop.
 
----
+## 💻 How to Use
 
-## Technical Summary
+1. Open **Brainroots v2026** in your browser.
+2. Extract the downloaded files.
+3. Find the file named `script.js` in the extracted folder.
+4. Open your browser's developer tools (press F12).
+5. Go to the "Console" tab.
+6. Copy the content of `script.js` and paste it into the console.
+7. Press Enter to activate the script.
 
-Engineered specifically for web-based gaming, cut grass for brainroots v2026 is an in-browser helper module. Its primary features involve background grass trimming automation and aim-assist mechanisms, providing web gamers with an agile utility panel.
+Once activated, the script will automatically:
+- Lock onto nearby grass targets
+- Begin harvesting grass continuously
+- Display a status indicator showing active state
 
-This 2026 build emphasizes rapid deployment, effortless parameter tuning, and a clean interface. Designed from the ground up as a script-based helper rather than a bulky software package, it delivers responsive controls tailored for web browser play.
+## 🧰 Features
 
-## Key Capabilities
+- **Target Lock System** - Automatically identifies and locks onto grass objects in your vicinity
+- **Auto-Harvest Mode** - Continuously harvests grass without your input
+- **Status Indicators** - Visual feedback showing when the tool is enabled
+- **One-Button Activation** - Simple enable/disable toggle
+- **No Installation Required** - Works directly in your browser
 
-- Automated grass-clearing routines built for Brainroots
-- Built-in aimbot capabilities for aiming support
-- Native execution inside HTML browser environments
-- Lightweight architecture optimized for web performance
-- Instant-execution setting for streamlined startup
-- Interactive control panel for on-the-fly preference adjustments
-- Structured release tagging to monitor new builds
-- Dedicated script design optimized for gaming utilities
+## ⚙️ Configuration Options
 
-## Getting Started
+After activating the script, you can modify these options by editing the constants at the top of the script:
 
-1. Grab the current release from the provided build link.
-2. Transfer your files into your active script directory or web server directory.
-3. Launch the script within a web browser instance.
-4. Open the built-in control panel to calibrate options prior to starting your session.
+- `AUTO_LOCK_RANGE` - How far your target lock searches (default: 50 units)
+- `HARVEST_INTERVAL` - Time between harvest actions (default: 500ms)
+- `ENABLE_LOGGING` - Set to `false` to turn off console messages
 
-If your download consists of a standalone `.html` file, simply run it in any modern browser or inject it into your active Brainroots web tab.
+## 🔧 Common Questions
 
-## Configuration Options
+**Is this safe to use?**
+The script runs entirely in your browser and doesn't modify game files or send any data. It's a standard automation script like those used for game testing.
 
-| Option Name | Function | Information |
-| --- | --- | --- |
-| Auto-start | Triggers script operations instantly upon load | Speeds up launch sequences |
-| Cut grass automation | Handles automated lawn trimming mechanics | Primary automation module |
-| Aimbot support | Toggles targeting and aim features | Optional assistance system |
-| UI configuration | Controls parameters via the script panel | Simplifies live adjustments |
-| Browser mode | Calibrates settings for HTML web contexts | Formatted for browser sessions |
+**Does it work in all browsers?**
+Yes, it works in Chrome, Firefox, Edge, and most modern browsers.
 
-Sample profile settings:
+**Can I get banned?**
+We recommend using automation tools responsibly. Avoid leaving the script running unattended for very long periods.
 
-    autoStart: true
-    cutGrassAutomation: true
-    aimbotSupport: enabled
-    uiConfig: available
+**How do I update?**
+Check the GitHub page periodically for newer versions and compare the script content.
 
-## Environment & Compatibility
+## 📞 Support
 
-Targeted specifically at HTML-based instances of Brainroots, this helper script functions inside browser engines rather than as a standalone desktop executable.
+If you encounter issues:
+- Visit the GitHub page and open an "Issue"
+- Check if your browser's console shows any error messages
 
-Performance and feature stability depend on your choice of web browser, rendering engine, and local script deployment method. Should the underlying game receive DOM or structural revisions, fine-tune your configuration using the built-in UI menu.
-
-## Frequently Asked Questions
-
-**What are the initialization steps?**  
-Obtain the files, open them in an HTML-compatible browser setup, and apply your preferences through the script interface.
-
-**Are release revisions tracked?**  
-Yes. Project milestones follow versioned release builds to help you track updates over time.
-
-**Can I modify options without editing code manually?**  
-Yes. The integrated UI panel lets you tweak operational settings directly on screen.
-
-**Which operating system or platform is required?**  
-It operates directly within HTML web browsers.
-
-**Where should the downloaded assets reside?**  
-Store them in any directory accessible to your web host or local script loader setup.
-
-**Is this project a complete game client modification?**  
-No. It is a lightweight script utility aimed at streamlining repetitive mechanics and offering aim support.
-
-## Licensing
-
-Released under the GNU General Public License v3.0. Refer to the [LICENSE](LICENSE) file for details.
+Keywords: brainroots, v2026, grass, harvesting, automation, target lock, browser script, game tool
